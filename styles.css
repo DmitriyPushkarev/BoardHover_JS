@@ -29,3 +29,7 @@
       transition: 2s ease;
   }
 
+  .square:hover {
+      transition-duration: 0s;
+  }
+
